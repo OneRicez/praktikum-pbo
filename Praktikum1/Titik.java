@@ -1,3 +1,9 @@
+/* Nama: Nashwan Adenaya
+ * NIM: 24060122130084
+ * Praktikum PBO Pertemuan 1
+ * Titik
+ */
+
 
 class Titik{ //Identity
   // Attributes/State

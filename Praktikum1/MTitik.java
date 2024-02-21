@@ -1,3 +1,9 @@
+/* Nama: Nashwan Adenaya
+ * NIM: 24060122130084
+ * Praktikum PBO Pertemuan 1
+ * MTitik
+ */
+
 class MTitik{
   public static void main(String[] args) {
     // Instansiasi

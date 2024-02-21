@@ -15,14 +15,13 @@ class MTitik{
     T2.setOrdinat(4.0);
     Titik T3 = new Titik(5,6);
 
-
     int CounterTitik = Titik.getCounterTitik();
     System.out.println("Jumlah objek titik: " + CounterTitik);
     System.out.println("T1(" + T1.getAbsis() + ", " + T1.getOrdinat() + ")");
     // System.out.println("T2(" + T2.getAbsis() + ", " + T2.getOrdinat() + ")");
     double absis = T2.getAbsis();
     double ordinat = T2.getOrdinat();
-    System.out.printf("T3(%.1f, %.1f)\n", absis, ordinat);
+    System.out.printf("T2(%.1f, %.1f)\n", absis, ordinat);
     System.out.println("T3(" + T3.getAbsis() + ", " + T3.getOrdinat() + ")");
   }
 }

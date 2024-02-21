@@ -4,7 +4,6 @@
  * Titik
  */
 
-
 class Titik{ //Identity
   // Attributes/State
   double absis;

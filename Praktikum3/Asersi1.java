@@ -10,7 +10,7 @@ public class Asersi1 {
       System.out.println("x bilangan positif");
     }
     else{
-      assert (x<=0):"ada kesalahan kode";
+      assert (x>0):"ada kesalahan kode";
       System.out.println("x bilangan negatif");
     }
   }

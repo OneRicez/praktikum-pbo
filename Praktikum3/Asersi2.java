@@ -17,7 +17,7 @@ class Lingkaran{
 public class Asersi2 {
   public static void main(String[] args) {
     double jariJari = 0;
-    assert (jariJari <= 0):"Jari jari tidak boleh nol atau negatif";
+    assert (jariJari > 0):"Jari jari tidak boleh nol atau negatif";
     Lingkaran l = new Lingkaran(jariJari);
     double kelilingLingkaran = l.hitungKeliling();
     System.out.println("Keliling Lingkaran = " + kelilingLingkaran);
